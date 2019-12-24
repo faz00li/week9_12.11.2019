@@ -1,0 +1,14 @@
+
+
+
+C# Week 9
+
+Plain English specs were committed in a text file or README before coding.
+Specs include specific input and output and a descriptive sentence.
+Specs begin with the simplest possible behavior and progress to more complex cases and cover different input values.
+All specs are written correctly as test methods.
+All tests are passing and described functionality is present.
+All previous standards are met (see below).
+The project is in a polished, portfolio-quality state.
+The project demonstrates understanding of this week's concepts. If prompted, you can discuss your code with an instructor using correct terminology.
+Required functionality was present by the Friday deadline.
